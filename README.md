@@ -145,3 +145,13 @@ To add more commands, create a new file in `cogs/` and add it to the `COGS` list
 - `Ban Members`, `Kick Members`, `Moderate Members`
 - `View Audit Log`, `Send Messages`, `Embed Links`
 - `Read Message History`, `Attach Files`
+
+<img width="511" height="584" alt="image" src="https://github.com/user-attachments/assets/efd9b0e5-03f5-4e6e-9750-d27f36db5d2d" />
+<img width="714" height="473" alt="image" src="https://github.com/user-attachments/assets/67b70bd0-16d5-4f30-8ce2-af8d49ae8e2c" />
+<img width="722" height="522" alt="image" src="https://github.com/user-attachments/assets/cdb057db-e3c5-4355-9873-5d3cbc5137f1" />
+<img width="745" height="607" alt="image" src="https://github.com/user-attachments/assets/b00f3048-d834-404a-b2bd-44c991c05746" />
+
+
+## Contact
+Discord: notmac3
+Telegram: m9ight

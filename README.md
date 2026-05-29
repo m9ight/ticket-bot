@@ -21,8 +21,8 @@ A fully-featured Discord bot built with **disnake** — slash commands, beautifu
 ### 1. Clone / download the project
 
 ```bash
-git clone <repo-url>
-cd discord_bot
+git clone https://github.com/m9ight/ticket-bot.git
+cd ticket-bot
 ```
 
 ### 2. Install dependencies
